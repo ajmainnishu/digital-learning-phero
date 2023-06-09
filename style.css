@@ -8,3 +8,32 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+
+
+
+/* header section start */
+/* banner section start */
+.item-1 {
+    background: url(./images/cover/cover-1.png) rgba(29, 29, 29, 0.7) ;
+    background-blend-mode: multiply;
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.item-2 {
+    background: url(./images/cover/cover-2.jpg) rgba(29, 29, 29, 0.7) ;
+    background-blend-mode: multiply;
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.item-3 {
+    background: url(./images/cover/cover-3.jpg) rgba(29, 29, 29, 0.7) ;
+    background-blend-mode: multiply;
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+/* banner section end */
+/* header section end */
