@@ -41,6 +41,32 @@ body {
 
 
 
+/* main section start */
+/* feedback section start */
+.carousel-control-prev {
+    background-color: gray;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -2%;
+}
+.carousel-control-next {
+    background-color: gray;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    right: -2%;
+}
+/* feedback section end */
+/* main section end */
+
+
+
+
 /* footer section start */
 .fa-brands {
     color: white;
