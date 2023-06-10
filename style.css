@@ -37,3 +37,24 @@ body {
 }
 /* banner section end */
 /* header section end */
+
+
+
+
+/* footer section start */
+.fa-brands {
+    color: white;
+    font-size: 20px;
+    background-color: gray;
+    border-radius: 50%;
+}
+.fa-facebook-f {
+    padding: 9px 12px;
+}
+.fa-twitter, .fa-tiktok {
+    padding: 9px 9px;
+}
+.fa-linkedin-in {
+    padding: 9px 10px;
+}
+/* footer section end */
